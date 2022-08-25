@@ -1,0 +1,509 @@
+[
+  {
+    "id": 1,
+    "name": "Bolo",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 3,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Margarina",
+        "amount": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 2,
+    "name": "Bolo de Cenoura",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 2.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 4,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 1,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 3,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Manteiga",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Cenoura",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Chocopó",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Leite Condensado",
+        "amount": 1,
+        "unit": "units"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 3,
+    "name": "Bolo de Fuba",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 0.1875,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 0.666,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Fuba",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Margarina",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Óleo",
+        "amount": 0.333,
+        "unit": "cups"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 4,
+    "name": "Bolo do Minecraft",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 3,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 1,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 3,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 2,
+        "unit": "cups"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 5,
+    "name": "Bolo de Laranja",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 4,
+        "unit": "units"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Óleo",
+        "amount": 1,
+        "unit": "cups"
+      },
+      {
+        "name": "Suco de Laranja",
+        "amount": 2,
+        "unit": "units"
+      },
+      {
+        "name": "Casca de Laranja",
+        "amount": 1,
+        "unit": "units"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 6,
+    "name": "Bolo Inglês",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 1.333,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 0.333,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 0.75,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Manteiga",
+        "amount": 0.75,
+        "unit": "cups"
+      },
+      {
+        "name": "Essência de Baunilha",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Sal",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 7,
+    "name": "Bolo de Abacaxi",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 1,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 3.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Abacaxi",
+        "amount": 1,
+        "unit": "units"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 8,
+    "name": "Bolo de Chocolate Branco",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 1,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 5,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Margarina",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Chocobranco",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Leite Condensado",
+        "amount": 1,
+        "unit": "units"
+      },
+      {
+        "name": "Coco Ralado",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Chocomargo",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Creme de Leite sem Soro",
+        "amount": 1,
+        "unit": "units"
+      },
+      {
+        "name": "Chocoleite",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Raspas de Chocobranco",
+        "amount": 1,
+        "unit": "at taste"
+      }
+    ],
+    "layers": 2
+  },
+  {
+    "id": 9,
+    "name": "Bolo Formigueiro",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 1.375,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 2.333,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Margarina",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Óleo",
+        "amount": 0.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Copopó",
+        "amount": 0.125,
+        "unit": "cups"
+      },
+      {
+        "name": "Granulate",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 10,
+    "name": "Brownie",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 0.75,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 0.375,
+        "unit": "cups"
+      },
+      {
+        "name": "Manteiga",
+        "amount": 5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Achocolatado",
+        "amount": 3,
+        "unit": "cups"
+      }
+    ],
+    "layers": 1
+  },
+  {
+    "id": 10,
+    "name": "Nega Maluca",
+    "ingredients": [
+      {
+        "name": "Trigo",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Ovo",
+        "amount": 3,
+        "unit": "units"
+      },
+      {
+        "name": "Leite",
+        "amount": 0.25,
+        "unit": "cups"
+      },
+      {
+        "name": "Açúcar",
+        "amount": 2.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Fermento",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Margarina",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Chocopó",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Óleo",
+        "amount": 0.5,
+        "unit": "cups"
+      },
+      {
+        "name": "Sal",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Água Quente",
+        "amount": 1,
+        "unit": "cups"
+      },
+      {
+        "name": "Manteiga",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "layers": 1
+  }
+]
